@@ -1,0 +1,9 @@
+_pycache_
+checkpoints/
+checkpoint/
+trainer_output/
+imgs/
+*.ipynb
+outputs/
+Datasets
+VQA_RAD_Image_Folder
